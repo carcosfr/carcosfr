@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET & Angular.
 - 🌱 I’m currently learning Angular & Flutter.
 - 💞️ I’m looking to collaborate on .NET Projects.
-- 📫 How to reach me ...
+- 📫 How to reach me ceciliaarcosfrancisco@gmail.com
 
 <!---
 carcosfr/carcosfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
